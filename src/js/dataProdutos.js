@@ -4,7 +4,7 @@ const produtos = [
         preco: 2,
         secao: 'Hortifruti',
         categoria: 'fruta',
-        img: "./src/img/banana.png"
+        img: './src/img/banana.png'
     },
     {
         nome: 'Morango',
@@ -18,7 +18,7 @@ const produtos = [
         preco: 2,
         secao: 'Hortifruti',
         categoria: 'fruta',
-        img: './src/img/maça.png'
+        img: './src/img/maca.png'
     },
     {
         nome: 'Pão',
